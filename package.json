@@ -1,0 +1,19 @@
+{
+  "name": "learnbackend",
+  "version": "1.0.0",
+  "description": "I am giving description not so much needy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai",
+    "learn"
+  ],
+  "author": "Shailendra Bhai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
